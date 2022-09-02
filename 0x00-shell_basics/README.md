@@ -1,1 +1,1 @@
-script for changing absolute path name
+Display the contents list of your current directory
